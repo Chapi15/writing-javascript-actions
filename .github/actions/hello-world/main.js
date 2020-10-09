@@ -6,6 +6,10 @@ const thirdGreeting = core.getInput("third-greeting");
 
 console.log(`Hello ${firstGreeting}`);
 console.log(`Hello ${secondGreeting}`);
+console.log(`Hello ${thirdGreeting}`);
+
+/*
 if (thirdGreeting) {
     console.log(`Hello ${thirdGreeting}`);
 }
+*/
